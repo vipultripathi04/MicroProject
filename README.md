@@ -1,5 +1,5 @@
 # MicroProject
-MicroProject for Login2Explore 
+MicroProject 
 # JsonPowerDB Explorer
 
 ## Description
